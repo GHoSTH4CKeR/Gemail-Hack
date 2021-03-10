@@ -1,4 +1,4 @@
-### Gemail-Hack
+### Ghost-Hack
 
 ### python script for Hack gmail account brute force 
 
@@ -7,13 +7,13 @@
 ### to ack victim account.Brute force attack is the only successful method to hack account
 ### but this process will take long time depend upon the length of password.
 
-### git clone https://github.com/Ha3MrX/Gemail-Hack
+### git clone https://github.com/Ha3MrX/Ghost-Hack
     
-### cd Gemail-Hack
+### cd Ghost-Hack
 
-### chmod +x gemailhack.py
+### chmod +x Ghosthack.py
 
-### python gemailhack.py
+### python Ghosthack.py
 
 ### ScreenShot
 
